@@ -1,0 +1,9 @@
+.container {
+    width: 30rem;
+    margin: 10rem auto;
+    text-align: center;
+    font-size: xx-large;
+    color: red;
+    border: 1px solid gray;
+    border-radius: 2rem;
+}
